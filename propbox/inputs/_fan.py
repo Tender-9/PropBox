@@ -1,4 +1,4 @@
-from ._module import Module
+from propbox._module import Module
 
 import RPi.GPIO as GPIO
 import time

@@ -1,6 +1,6 @@
-from math import nan
-from ._module import Module
+from propbox._module import Module
 
+from math import nan
 from datetime import datetime
 import tempfile
 import json
