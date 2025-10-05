@@ -1,7 +1,6 @@
+from propbox._data_manager import DataManager
 from propbox._module import Module
-from propbox.inputs import Fan
-from propbox.data import DataManager
-
+from propbox._fan import Fan
 
 # I'm going to need some new hardware to fully implement my dreams here
 # I realize the "inputs" phrasing for fan in this context doesn't make sense
